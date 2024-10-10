@@ -12,6 +12,7 @@ module.exports = {
       colors: {
         "black": "#000000",
         "black-dark": "#0B0A0A",
+        "black-bg-dark": "#1C1C1C",
         "grey-dark": "#2F2E32",
         "accent": "#FFCC00",
         "secondary": "#525050",
@@ -24,6 +25,7 @@ module.exports = {
         "bluesales": "#008BE8",
         "pink": "#7001FE",
         "green": "#8FFE01",
+        "border-line": "#606356",
       },
       padding: {
         '17': '4.375rem',
