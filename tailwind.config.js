@@ -27,6 +27,7 @@ module.exports = {
         "green": "#8FFE01",
         "border-line": "#606356",
         "what-bg": "rgba(35, 34, 37, 0.5)",
+        "number_bg": "rgba(243, 243, 243, 0.14)",
       },
       padding: {
         '17': '4.375rem',
