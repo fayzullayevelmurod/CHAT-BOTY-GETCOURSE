@@ -1,6 +1,18 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Igro+Sans:wght@400;500;700&display=swap');
+
+
+@font-face {
+  font-family: 'Igro Sans';
+  src: url('../fonts/IgraSans/IgraSans.eot') format('eot'),
+        url('../fonts/IgraSans/IgraSans.ttf') format('ttf'),
+        url('../fonts/IgraSans/IgraSans.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+} */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 
 html {
   @apply scroll-smooth;
