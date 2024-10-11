@@ -26,10 +26,14 @@ module.exports = {
         "pink": "#7001FE",
         "green": "#8FFE01",
         "border-line": "#606356",
+        "what-bg": "rgba(35, 34, 37, 0.5)",
       },
       padding: {
         '17': '4.375rem',
-      }
+      },
+      screens: {
+        'custom': '460px',
+      },
     },
   },
   plugins: [],
