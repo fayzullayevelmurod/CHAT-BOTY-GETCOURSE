@@ -1854,6 +1854,18 @@ body {
     left: -1.25rem;
   }
 
+  .md\:-left-3 {
+    left: -0.75rem;
+  }
+
+  .md\:-left-2 {
+    left: -0.5rem;
+  }
+
+  .md\:-left-20 {
+    left: -5rem;
+  }
+
   .md\:mb-12 {
     margin-bottom: 3rem;
   }
